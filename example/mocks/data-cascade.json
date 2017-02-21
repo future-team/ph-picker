@@ -1,0 +1,15 @@
+[
+	{"value":"34000","name":"福建省","children":[
+		{"value":"34100","name":"福州市","children":[
+			{"value":"34110","name":"马尾区"}
+		]},
+		{"value":"34200","name":"厦门市","children":[
+			{"value":"34210","name":"湖里区"},
+			{"value":"34220","name":"思明区"}
+		]},
+		{"value":"34300","name":"泉州市","children":[
+			{"value":"34310","name":"石狮区"},
+			{"value":"34320","name":"晋江区"}
+		]}
+	]}
+]
